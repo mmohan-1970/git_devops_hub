@@ -1,2 +1,2 @@
-# git_devops_hub
+# advanced_devops
 Repo for advanced DevOps training
